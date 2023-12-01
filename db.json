@@ -1,4 +1,5 @@
 {
-    "transactions":[],
+    "debitTransactions":[],
+    "creditTransactions":[],
     "history":[]
 }
