@@ -1,5 +1,34 @@
 {
-    "debitTransactions":[],
-    "creditTransactions":[],
-    "history":[]
+  "history": [
+    {
+      "amount": "2000",
+      "category": "bill",
+      "mode": "credit",
+      "id": 1
+    },
+    {
+      "amount": "500",
+      "category": "rent",
+      "mode": "credit",
+      "id": 2
+    },
+    {
+      "amount": "50",
+      "category": "chai",
+      "mode": "debit",
+      "id": 3
+    },
+    {
+      "amount": "500",
+      "category": "paint",
+      "mode": "debit",
+      "id": 4
+    },
+    {
+      "amount": "250",
+      "category": "coffee",
+      "mode": "credit",
+      "id": 5
+    }
+  ]
 }
